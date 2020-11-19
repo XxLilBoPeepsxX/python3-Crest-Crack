@@ -1,4 +1,4 @@
-![Supported Python versions](https://img.shields.io/badge/python-2.7-blue.svg)
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/XxLilBoPeepsxX/python3-Crest-Crack)
 # CrestCrack
 CrestCrack is a simple script that exploits CVE-2016-5640 / CLVA-2016-05-002 within the Crestron AirMedia AM-100 (v1.1.1.11 - v1.2.1). When supplied with arguments CrestCrack will utilize netcat to create a reverse shell between your target and a netcat listener of your choice. 
 
